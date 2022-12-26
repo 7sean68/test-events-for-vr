@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-events-for-vr/static/css/main.073c9b0a.css",
+    "main.js": "/test-events-for-vr/static/js/main.805696ee.js",
+    "static/js/787.b44370fa.chunk.js": "/test-events-for-vr/static/js/787.b44370fa.chunk.js",
+    "index.html": "/test-events-for-vr/index.html",
+    "main.073c9b0a.css.map": "/test-events-for-vr/static/css/main.073c9b0a.css.map",
+    "main.805696ee.js.map": "/test-events-for-vr/static/js/main.805696ee.js.map",
+    "787.b44370fa.chunk.js.map": "/test-events-for-vr/static/js/787.b44370fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.805696ee.js"
+  ]
+}
